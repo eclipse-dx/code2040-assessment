@@ -181,10 +181,10 @@ public class Code2040 {
     public static void main(String[] args) throws Exception {
 
         try {
-            //register();
-            //reverseString();
-            //haystack();
-            //prefix();
+            register();
+            reverseString();
+            haystack();
+            prefix();
             dating();
         } catch (Exception e) {
             e.printStackTrace();
